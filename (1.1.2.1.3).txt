@@ -1,0 +1,11 @@
+*comment (1.1.2.1.3)
+
+
+--The group member sarcastically says that’s probably a good idea and that it’ll give the leader time to think of something productive to do.
+--The leader screams back that weapons are the top priority, and that they can’t defend themselves without guns. He jabs the [slim jim?] towards the group member, saying you can’t kill zed with little scraps of metal.
+--You are forced to back up so don’t get hit by it.
+--This sets the group member off and screams at him not to point a weapon at them, and they knock it away.
+--With no one between the two, the leader lunges and tackles the group member, their scuffle setting off the car alarm.
+--Zed's come out from the neighbourhood towards the group.
+*finish
+

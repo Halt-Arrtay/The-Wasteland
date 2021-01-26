@@ -1,0 +1,17 @@
+*comment (2)
+
+
+--As the leader works on the lock [i need to research how people break into cars], mentioned he used to work in the repair business and people getting locked out was a common occurrence.
+--A thump from inside the car is heard.
+--A zed is in the backseat and has seen you. It’s shrieks are muffled, and it’s broken rotting nails leave blood streaks on the glass [would the group have noticed blood inside the window before they started on the car?]
+--the zed is cut of from the front row with the divider in police cars, so if you did break in you should be safe.
+
+*choice
+	#(2.1)Keep working on the car
+		You keep working on the on the car [need to research], ignoring the zed shrieking at you, but your group member who is standing guard angrily asks why you’re still trying to break in with the zed there.
+		*goto_scene (2.1)
+		*finish
+	#(2.2)Give up on car and go search the house
+		You packed up your gear and start to head towards the house to help the others, but the leader growls out “where do you think you’re going”.
+		*goto_scene (2.2)
+		*finish

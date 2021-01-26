@@ -1,0 +1,9 @@
+*comment (1.1.1)
+
+
+
+--The other group members file out of the kitchen, but you stay. From the months of living in the Wasteland you picked up special habits that saved your life on many ocations, one of these habits is to search more thoroughly.
+--You find car keys on the top of the fridge.
+--You turn to search the rest of the house but you hear shouting coming from outside.
+--You find the leader and one of the other group members fighing on the ground and the sound of them is drawing in Zeds from around the neighbourhood. What do you do? (End of Part one)
+*finish

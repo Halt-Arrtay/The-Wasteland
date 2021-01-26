@@ -1,0 +1,6 @@
+*comment (1.1.2.2)
+
+
+--Before you can do anything, the group member he was arguing with says this is exactly why no one wants him as leader
+--The leader lunges at the group member.
+*goto_scene (1.1.2.1)

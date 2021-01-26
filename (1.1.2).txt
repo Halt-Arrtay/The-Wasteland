@@ -1,0 +1,17 @@
+*comment (1.1.2)
+
+
+
+--The third group member there with them seems to be trying to calm them down, but to no avail. What do you do?
+
+
+
+*choice
+	#(1.1.2.1)Try to resolve their conflict
+		You step between the two angry members and ask what is wrong. One member screams that the leader is being an idiot trying to open a car looking for weapons when there’s a zed inside the car. The leader screams back that the member is the idiot because the zed is in the backseat and the divider keeps it locked away.
+		*goto_scene (1.1.2.1)
+		*finish
+	#(1.1.2.2)Tell them to be quiet and to focus on the car
+		You tell them to be quiet and focus on the car, to which the leader responds that you don’t get to tell him what to do. He’s turned his attention to you now
+		*goto_scene (1.1.2.2)
+		*finish

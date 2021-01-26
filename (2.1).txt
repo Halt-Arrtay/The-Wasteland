@@ -1,0 +1,12 @@
+*comment (2.1)
+
+
+--The leader tells them (rudely) they need to search the police car for guns, and that the group member should just do their job and stand guard.
+--group member gets angrier still, saying searching for guns and ammo that might not even be there is pointless, that our real priority should be getting food and finding shelter for the night. The leader stands up, countering that weapons are what the group needs right now.
+--You can feel the tension is in the air. Things could go south if these two start fighting/lost time.
+
+*choice
+	#(2.1.1)Get the group members back on track and on guard
+		You tell the two to focus, that this is still a hostile area and with little room for bickering. You try to convince them to get back to doing their jobs.
+		*goto_scene (2.1.1)
+		*finish

@@ -1,0 +1,12 @@
+*comment (1.2)
+
+
+*choice
+	#(1.2.1)Kick down the door and rush in
+		You kick open the door and rush in, but the door opens up to a basement staircase. You tumble down into the darkness, landing painfully. Your group members call down to you, asking if you’re okay. [minor injury, something dislocated or cut]
+		*goto_scene (1.2.1)
+		*finish
+	#(1.2.2)Kick down the door and wait
+		You kick open the door and wait, and you see the door opens up to a basement staircase. Nothing can be seen in the darkness. Nothing can be heard either.
+		*goto_scene (1.2.2)
+		*finish

@@ -1,0 +1,15 @@
+*comment (1.1)
+
+
+--Reaching the kitchen, one of your group members curses as you see that everything has been ransacked. All the drawers and cuboards were open. What do you do?
+
+
+*choice
+	#(1.1.1)Search for what you can
+		You and the group begin digging through the mess. You find two empty water bottles, a bag of dry cereal, some pasta, but hardly anything else. It's gathered into your packs.
+		*goto_scene (1.1.1)
+		*finish
+	#(1.1.2)Give up and return to the driveway
+		You and your group give up and return to the driveway. The car still appears to be locked, and instead your leader and one of the group members are arguing, the leader shaking the [whatever that metal shimmy thing used to break into cars, slim jim?] at the other threateningly
+		*goto_scene (1.1.2)
+		*finish

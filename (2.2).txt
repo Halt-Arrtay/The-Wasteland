@@ -1,0 +1,8 @@
+*comment (2.2)
+
+
+--The guarding group member says that you're thinking right, since there’s no point in risking the zed for the slim chance of weapons and ammo. They start to follow you up to the house before the leader blocks them with a arm.
+--The leader is, first off, upset that no one seems to be following his lead, and secondly, believing that we have to search for weapons before they do anything else. Weapons are the priority.
+--the group member member moves past him towards the house.
+
+*finish

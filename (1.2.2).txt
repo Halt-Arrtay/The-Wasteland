@@ -1,0 +1,14 @@
+*comment (1.2.2)
+
+
+--A group member says that there’s probably only spiders and christmas decorations down there.
+
+*choice
+	#(1.2.2.1)Check the basement using your flashlight
+		You slowly make your way down the stairs, flashlight on. The air is dusty, and all you can see are boxes.
+		*goto_scene (1.2.2.1)
+		*finish
+	#(1.2.2.2)Close the door and move on
+		You and your group close the door and move on. You make it to the kitchen and can see the living room past it.
+		*goto_scene (1.2.2.2)
+		*finish

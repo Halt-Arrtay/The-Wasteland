@@ -1,0 +1,13 @@
+*comment (2.1.1)
+
+
+--The leader doesn’t take being told what to do too lightly. He turns on you, shouting about he’s the leader or something like that.
+--The rest of your group members come out of the house at that moment, carrying a little food, but not enough to satisfy everyone. The leader shouts they should’ve looked harder, that’s hardly enough for one person—
+--Group member chips in that the only reason he’s the leader is because he would throw a hissy fit otherwise.
+--The leader is nearing his breaking point. The way he looks at the group member and the white-knuckled grip he had on the slim jim don’t bode well with you. 
+
+*choice
+	#(2.1.1.1)Step between them
+		You step between them just in time to catch the charging leader. You hold him back with some difficulty, and it doesn’t help that the group member continues to taunt him and tell him this is exactly what they were talking about.
+		*goto_scene (2.1.1.1)
+		*finish

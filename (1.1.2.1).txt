@@ -1,0 +1,21 @@
+*comment (1.1.2.1)
+
+
+
+--You see a zed clawing at the window from the backseat, broken nails smearing blood along them. The [criminal divider thingy] is keeping the zed back, and the zed probably wouldn’t be able to reach anyone searching the front seats.
+--The other member says we shouldn’t risk it for weapons that might not even be there, and that instead we should be more focused on food and finding a secure area for nightime, which is about 3 hours away. What do you do?
+
+*choice
+	#(1.1.2.1.1)Take the group member's side
+		You take the group members' side and try to convince the leader, and he gets angry. In rage, he hits the [slim jim?] against the car, setting off it’s alarm.
+		*goto_scene (1.1.2.1.1)
+		*finish
+	#(1.1.2.1.2)Take the leader's side
+		You take the leader's side and try to convince the group member, and they keep arguing with you. They say the group has stayed here for too long and they should move on and look for food, and that you and the group listening to the leader is going to end badly. The leader slams the [slim jim] against the car, setting off the alarm, and lunges at the other group member.
+		*goto_scene (1.1.2.1.2)
+		*finish
+	#(1.1.2.1.3)Try to just focus on calming them down
+		After hearing them out you try to calm them down, saying this fighting isn’t good and trying that we should all just take a break
+		*goto_scene (1.1.2.1.3)
+		*finish
+			

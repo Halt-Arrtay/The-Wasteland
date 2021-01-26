@@ -1,0 +1,7 @@
+*comment (1.2.2.2)
+
+
+--One of your group members curses as you see the kitchen cabinets and drawers are all opened and the place has been ransacked. 
+--Before you can decide if you want to check the kitchen, a commotion is heard outside.
+--You and your group run back to the driveway.
+*finish

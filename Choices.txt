@@ -1,0 +1,114 @@
+*comment This is the file for all the choices in the first scene.
+
+
+*comment (0)choice
+*choice
+	#(1)Volunteer to search the house
+	*goto_scene (1)
+	#(2)Volunteer to break into the car
+	*goto_scene (2)	      
+	#(3)Keep silent and stay to break into the car
+	*goto_scene (3)
+	#(4)Object to splitting up
+	*goto_scene (4)
+
+
+*comment (1)choice
+*choice
+	#(1.1)Carefully proceed to the kitchen
+	*goto_scene (1.1)
+	#(1.2)Strategically inspect the entire house
+	*goto_scene (1.2)
+
+
+
+*comment (1.1)choice
+*choice
+	#(1.1.1)Search for what you can
+	*goto_scene (1.1.1)
+	#(1.1.2)Give up and return to the driveway
+	*goto_scene (1.1.2)
+
+
+*comment (1.1.2)choice
+*choice
+	#(1.1.2.1)Try to resolve their conflict
+	*goto_scene (1.1.2.1)
+	#(1.1.2.2)Tell them to be quiet and to focus on the car
+	*goto_scene (1.1.2.2)
+	#(1.1.2.3)Do nothing and let them sort themselves out
+	*goto_scene (1.1.2.3)
+
+
+*comment (1.1.2.1)choice
+*choice
+	#(1.1.2.1.1)Take the group member's side
+	*goto_scene (1.1.2.1.1)
+	#(1.1.2.1.2)Take the leader's side
+	*goto_scene (1.1.2.1.2)
+	#(1.1.2.1.3)Try to just focus on calming them down
+	*goto_scene (1.1.2.1.3)
+
+
+*comment (1.2)choice
+*choice
+	#(1.2.1)Kick down the door and rush in
+	*goto_scene (1.2.1)
+	#(1.2.2)Kick down the door and wait
+	*goto_scene (1.2.2)
+	#(1.2.3)Open the door and rush in
+	*goto_scene (1.2.3)
+	#(1.2.4)Slowly open the door and peak inside
+	*goto_scene (1.2.4)
+
+
+*comment (1.2.2)choice
+*choice
+	#(1.2.2.1)Check the basement using your flashlight
+	*goto_scene (1.2.2.1)
+	#(1.2.2.2)Close the door and move on
+	*goto_scene (1.2.2.2)
+
+
+*comment (2)choice
+*choice
+	#(2.1)Keep working on the car
+	*goto_scene (2.1)
+	#(2.2)Give up on car and go search the house
+	*goto_scene (2.2)
+	#(2.3)
+	*goto_scene (2.3)
+
+
+*comment (2.1)choice
+*choice
+	#(2.1.1)Get the group members back on track and on guard
+	*goto_scene (2.1.1)
+	#(2.1.2)Distract by changing the topic
+	*goto_scene (2.1.2)
+	#(2.1.3)Try to sort their disagreement out to help
+	*goto_scene (2.1.3)
+	#(2.1.4)Take the group member's side
+	*goto_scene (2.1.4)
+
+
+*comment (2.1.1)choice
+*choice
+	#(2.1.1.1)Step between them
+	*goto_scene (2.1.1.1)
+	#(2.1.1.2)Disarm the leader
+	*goto_scene (2.1.1.2)
+	#(2.1.1.3)Attack the leader
+	*goto_scene (2.1.1.3)
+	#(2.1.1.4)Do nothing
+	*goto_scene (2.1.1.4)
+
+
+
+
+
+*comment (3)choice
+
+
+*comment (4)choice
+

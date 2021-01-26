@@ -1,0 +1,13 @@
+*comment (1)
+
+--The door is slightly ajar and one of your group members nudeges it open whith the tip of his rifle. There is a faint whiff of death comming from inside, but nothing alerts you that a Zed might be inside. What do you do?
+
+*choice
+	#(1.1)Carefully proceed to the kitchen
+		The house is quiet and still. Passing through the living room, the couch has bee pulled out into an unmade bed with the looks like someone had briefly camped out on it a long time ago. Along with the unmade bed there is also a dark stain on the carpet.
+		*goto_scene (1.1)
+		*finish
+	#(1.2)Strategically inspect the entire house
+		You and your group move together, weapons drawn as you go along a hallway. Your group members clear a bathroom and a bedroom with a bed drenched in dried blood. It’s your turn to clear a room.
+		*goto_scene (1.2)
+		*finish
